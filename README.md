@@ -46,7 +46,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/skillswap.git
+git clone https://github.com/gunapriya07/-skillswap.git
 cd skillswap
 
 # Install dependencies
@@ -60,5 +60,5 @@ rails db:create db:migrate db:seed
 redis-server
 
 # Start the server
-rails server
+rails server or rails s
 ```
