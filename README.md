@@ -1,4 +1,4 @@
-# 📚 SkillSwap – Peer Learning & Micro-Mentorship Platform
+# SkillSwap – Peer Learning & Micro-Mentorship Platform
 
 SkillSwap is a full-stack Ruby on Rails web application that connects people who want to **learn new skills** with mentors who can **teach** them. It supports short-term, topic-specific learning sessions in a flexible, peer-driven environment.
 
@@ -34,7 +34,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ## 🧑‍💻 Getting Started
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 - Ruby >= 3.2.0
 - Rails >= 7.0
