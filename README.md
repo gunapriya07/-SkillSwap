@@ -36,11 +36,9 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ###  Prerequisites
 
-- Ruby >= 3.2.0
-- Rails >= 7.0
+- Ruby
+- Rails
 - PostgreSQL
-- Redis
-- Yarn & Node.js (for JS dependencies)
 
 ### 📦 Installation
 
