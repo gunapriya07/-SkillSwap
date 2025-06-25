@@ -4,7 +4,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ## 🚀 Features
 
-- 🔐 User Authentication (Devise)
+- 🔐 User Authentication 
 - 👥 Roles: Learners, Mentors (or both)
 - 📚 Skill Listings & Search
 - 📆 Session Booking with Availability Calendar
@@ -21,7 +21,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 | Layer           | Technology                 |
 | --------------- | -------------------------- |
-| Backend         | Ruby on Rails 7            |
+| Backend         | Ruby on Rails              |
 | Database        | PostgreSQL                 |
 | Auth            | Devise + Pundit            |
 | Real-Time Chat  | ActionCable + Redis        |
