@@ -27,8 +27,8 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 | Real-Time Chat  | ActionCable + Redis        |
 | Payments        | Stripe API                 |
 | Background Jobs | Sidekiq + Redis            |
-| Styling         | Tailwind CSS / Bootstrap 5 |
-| Deployment      | Render / Fly.io / Heroku   |
+| Styling         | Tailwind CSS               |
+| Deployment      | Render                     |
 
 ---
 
