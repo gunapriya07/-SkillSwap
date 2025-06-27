@@ -23,7 +23,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 | --------------- | -------------------------- |
 | Backend         | Ruby on Rails              |
 | Database        | PostgreSQL                 |
-| Auth            | Devise + Pundit            |
+| Auth            | Bcrypt                     |
 | Real-Time Chat  | ActionCable + Redis        |
 | Payments        | Stripe API                 |
 | Background Jobs | Sidekiq + Redis            |
