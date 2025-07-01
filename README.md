@@ -2,7 +2,7 @@
 
 SkillSwap is a full-stack Ruby on Rails web application that connects people who want to **learn new skills** with mentors who can **teach** them. It supports short-term, topic-specific learning sessions in a flexible, peer-driven environment
 
-## 🚀 Features
+##  Features
 
 - 🔐 User Authentication 
 - 👥 Roles: Learners, Mentors (or both)
