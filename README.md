@@ -4,16 +4,16 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ##  Features
 
-- 🔐 User Authentication 
-- 👥 Roles: Learners, Mentors (or both)
-- 📚 Skill Listings & Search
-- 📆 Session Booking with Availability Calendar
-- 💬 Real-Time Chat using ActionCable
-- ⭐ Ratings & Reviews System
-- 💸 Payment Integration (Stripe)
-- 🧾 Personalized Dashboards for Mentors and Learners
-- 🔔 Email & In-app Notifications (ActionMailer, Hotwire)
-- 🛠 Admin Panel (RailsAdmin)
+-  User Authentication 
+-  Roles: Learners, Mentors (or both)
+-  Skill Listings & Search
+-  Session Booking with Availability Calendar
+-  Real-Time Chat using ActionCable
+-  Ratings & Reviews System
+-  Payment Integration (Stripe)
+-  Personalized Dashboards for Mentors and Learners
+-  Email & In-app Notifications (ActionMailer, Hotwire)
+-  Admin Panel (RailsAdmin)
 
 ---
 
