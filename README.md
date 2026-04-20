@@ -17,7 +17,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ---
 
-## 🖥️ Tech Stack
+##  Tech Stack
 
 | Layer           | Technology                 |
 | --------------- | -------------------------- |
@@ -32,7 +32,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 
 ---
 
-## 🧑‍💻 Getting Started
+##  Getting Started
 
 ###  Prerequisites
 
@@ -40,7 +40,7 @@ SkillSwap is a full-stack Ruby on Rails web application that connects people who
 - Rails
 - PostgreSQL
 
-### 📦 Installation
+###  Installation
 
 ```bash
 # Clone the repository
